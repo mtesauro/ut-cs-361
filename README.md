@@ -12,4 +12,6 @@ The LMS used for the Fall 2015 class can be found at https://utexas.instructure.
 
 Additionally, the course is using Piazza for online discussions at https://piazza.com/utexas/fall2015/cs361/home
 
+### License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
