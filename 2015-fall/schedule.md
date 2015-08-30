@@ -1,70 +1,76 @@
 Week 01 
 
-* Computer Security Concepts, part 1 - Aug 27
+* Aug 27 - Course Overview 
 
 Week 02
 
-* Computer Security Concepts, part 2 - Sept 01
-* Authenticating Users - Sept 03
+* Sept 01 - Computer Security Concepts
+* Sept 03 - Authenticating Users
 
 Week 03
 
-* Access Control - Sept 08
-* Auth-N, Auth-Z Demos & Labs - Sept 10
+* Sept 08 - Access Control 
+* Sept 10 - Auth-N, Auth-Z Demos & Labs
 
 Week 04
 
-* Applied Cryptography - Sept 15
-* Network Security - Sept 17
+* Sept 15 - Applied Cryptography 
+* Sept 17 - Network Security 
 
 Week 05
 
-* Network Security, Part 2 - Sept 29
-* Malicious Software - Oct 01
+* Sept 22 - Auth-N, Auth-Z Labs  
+* Sept 24 - Crypto, NetSec Labs
 
 Week 06
-* Malware Labs - Oct 06
-* Database, NoSQL and Cloud Security - Oct 08
+
+* Sept 29 - Malicious Software
+* Oct 01 - **EXAM 1**
 
 Week 07
 
-* Application Security, part 1 - Oct 13
-* Application Security, part 2 - Oct 15
+* Oct 06 - Application Security, part 1 
+* Oct 15 - Application Security, part 2 
 
 Week 08
 
-* AppSec Labs - Oct 20
-* Application Security, part 3 - Oct 22
+* Oct 13 - Application Security, part 3 
+* Oct 15 - AppSec Labs 
 
 Week 09
 
-* AppSec Labs - Oct 27
-* Multilevel and Trusted Computing - Oct 29
+* Oct 20 - AppSec Labs - Oct 27
+* Oct 22 - Multilevel and Trusted Computing - Oct 29
 
 Week 10
 
-* OS and Virtualization Security - Nov 03
-* OS & NetSec Labs - Nov 05
+* Oct 27 - Database, NoSQL and Cloud Security
+* Oct 29 - OS and Virtualization Security 
 
 Week 11
 
-* Security Controls- Nov 10
-* Risk Assessment and Management - Nov 12
+* Nov 03 - Security Controls
+* Nov 05 - Risk Assessment and Management
 
 Week 12
 
-* Physical and Human Security - Nov 17
-* Auditing Security - Nov 19
+* Nov 10 - Physical and Personnel Security 
+* Nov 12 - Auditing Security 
 
 Week 13
 
-* Case Study - Nov 24
-* Thanksgiving Holiday - Nov 26
+* Nov 17 - Guest Lecture
+* Nov 19 - Guest Lecture
 
 Week 14
 
-* Legal, Ethical and Privacy Issues - Dec 01
-* Last Day of Class - Dec 03 
+* Nov 24 - Case Study 
+* Nov 26 - Thanksgiving Holiday 
+
+Week 15
+
+* Dec 01 - Legal, Ethical and Privacy Issues 
+* Dec 03 - Last Day of Class 
 
 Dead Week - Dec 08 & Dec 10
 
