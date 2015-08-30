@@ -1,4 +1,4 @@
-The lectures in this directory can be converted from Markdown to Reveal.js by using the followig command:
+The lectures in this directory can be converted from Markdown to Reveal.js by using the following command:
 
 ```
 $ pandoc -s --self-contained --mathjax -i -t revealjs lecture-template.md -o Lecture-template.html
@@ -10,6 +10,7 @@ The command also assumes a working directory which has the following prep work a
 
 ```
 $ mkdir lectures
+$ cd lectures
 $ git clone https://github.com/hakimel/reveal.js.git
 $ cp reveal.js/css/reveal.css reveal.js/css/reveal.min.css
 $ cp reveal.js/js/reveal.js reveal.js/js/reveal.min.js
