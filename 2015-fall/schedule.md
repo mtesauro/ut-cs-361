@@ -4,7 +4,7 @@ Week 01
 
 Week 02
 
-* Sept 01 - Computer Security Concepts
+* Sept 01 - Computer Security Fundamentals
 * Sept 03 - Authenticating Users
 
 Week 03
@@ -14,7 +14,7 @@ Week 03
 
 Week 04
 
-* Sept 15 - Applied Cryptography 
+* Sept 15 - Cryptography in Practice 
 * Sept 17 - Network Security 
 
 Week 05
@@ -24,7 +24,7 @@ Week 05
 
 Week 06
 
-* Sept 29 - Malicious Software
+* Sept 29 - Malware and other Hostile Software
 * Oct 01 - **EXAM 1**
 
 Week 07
@@ -40,7 +40,7 @@ Week 08
 Week 09
 
 * Oct 20 - AppSec Labs - Oct 27
-* Oct 22 - Multilevel and Trusted Computing - Oct 29
+* Oct 22 - Trusted Computing and Multi-level Security Models - Oct 29
 
 Week 10
 
@@ -65,11 +65,11 @@ Week 13
 Week 14
 
 * Nov 24 - Case Study 
-* Nov 26 - Thanksgiving Holiday 
+* Nov 26 - Thanksgiving Holiday - nom, nom, nom
 
 Week 15
 
-* Dec 01 - Legal, Ethical and Privacy Issues 
+* Dec 01 - Security - Privacy, Legal and Ethical concerns
 * Dec 03 - Last Day of Class 
 
 Dead Week - Dec 08 & Dec 10
