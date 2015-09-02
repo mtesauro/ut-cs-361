@@ -63,7 +63,7 @@ Students who successfully complete this course will:
 
 ## Schedule
 
-Schedule is posted online at https://github.com/mtesauro/cs-361/2015/fall/schedule.md
+Schedule is posted online at https://github.com/mtesauro/ut-cs-361/blob/master/2015-fall/schedule.md
 
 The schedule is subject to change and students are responsible for monitoring the schedule for changes.  GitHub allows for repositories to be 'watched' which I'd suggest for keeping an eye on schedule changes.
 
