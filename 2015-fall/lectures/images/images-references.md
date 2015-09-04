@@ -11,3 +11,14 @@
 - book2coversmall.jpg - Computer Engineering, 2nd Edition cover
 - - Located at http://www.cl.cam.ac.uk/~rja14/book.html
 - - http://www.cl.cam.ac.uk/~rja14/Papers/book2coversmall.jpg
+
+### Lecture 02 - Authenticating Users
+
+- identity.png - xkcd cartoon on identity
+- - located at http://www.explainxkcd.com/wiki/index.php/1121:_Identity
+- - http://www.explainxkcd.com/wiki/images/7/74/identity.png
+- password_strength.png - xkcd cartoon on password strength
+- - https://xkcd.com/936/
+- - http://imgs.xkcd.com/comics/password_strength.png
+
+
