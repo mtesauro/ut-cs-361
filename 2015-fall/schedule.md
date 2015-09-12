@@ -10,21 +10,21 @@ Week 02
 Week 03
 
 * Sept 08 - Access Control 
-* Sept 10 - Auth-N, Auth-Z Demos & Labs
+* Sept 10 - Hacking-Lab and Course Labs Intro 
 
 Week 04
 
-* Sept 15 - Cryptography in Practice 
-* Sept 17 - Network Security 
+* Sept 15 - Malware and other Hostile Software - Guest Michael Gough
+* Sept 17 - Cryptography in Practice 
 
 Week 05
 
-* Sept 22 - Auth-N, Auth-Z Labs  
-* Sept 24 - Crypto, NetSec Labs
+* Sept 22 - Auth-N, Auth-Z Labs - No lecture  
+* Sept 24 - Crypto, NetSec Labs - No lecture
 
 Week 06
 
-* Sept 29 - Malware and other Hostile Software
+* Sept 29 - Network Security
 * Oct 01 - **EXAM 1**
 
 Week 07
