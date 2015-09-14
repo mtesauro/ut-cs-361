@@ -59,7 +59,7 @@ Week 12
 
 Week 13
 
-* Nov 17 - Guest Lecture
+* Nov 17 - Guest Lecture - Wendy Nather
 * Nov 19 - Guest Lecture
 
 Week 14
