@@ -19,27 +19,27 @@ Week 04
 
 Week 05
 
-* Sept 22 - Auth-N, Auth-Z Labs - No lecture  
-* Sept 24 - Crypto, NetSec Labs - No lecture
+* Sept 22 - Auth-N - No lecture  
+* Sept 24 - Auth-Z Labs - No lecture
 
 Week 06
 
-* Sept 29 - Network Security
+* Sept 29 - Hands-on Lab Day
 * Oct 01 - **EXAM 1**
 
 Week 07
 
-* Oct 06 - Application Security, part 1 
-* Oct 15 - Application Security, part 2 
+* Oct 06 - Network Security
+* Oct 08 - Application Security, part 1 
 
 Week 08
 
-* Oct 13 - Application Security, part 3 
-* Oct 15 - AppSec Labs 
+* Oct 13 - Application Security, part 2 
+* Oct 15 - Application Security, part 3  
 
 Week 09
 
-* Oct 20 - AppSec Labs - Oct 27
+* Oct 20 - Crypto Labs
 * Oct 22 - Trusted Computing and Multi-level Security Models - Oct 29
 
 Week 10
@@ -75,3 +75,5 @@ Week 15
 Dead Week - Dec 08 & Dec 10
 
 Final Days Dec. 9-12 & 14-15
+
+**Note:** Schedule for Lab due dates is posted on the course Canvas site under Pages => Course Lab Schedule.
