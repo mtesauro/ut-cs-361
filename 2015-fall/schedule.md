@@ -30,7 +30,7 @@ Week 06
 Week 07
 
 * Oct 06 - Application Security, part 1 
-* Oct 15 - Application Security, part 2 
+* Oct 08 - Application Security, part 2 
 
 Week 08
 
