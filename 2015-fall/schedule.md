@@ -40,7 +40,7 @@ Week 08
 Week 09
 
 * Oct 20 - Crypto Labs
-* Oct 22 - Trusted Computing and Multi-level Security Models - Oct 29
+* Oct 22 - Trusted Computing and Multi-level Security Models 
 
 Week 10
 
