@@ -49,7 +49,7 @@ information system assets including hardware, software, firmware, and informatio
 - Phishing, Social Engineering
 - Anytime someone can access data they shouldn't, confidentiality issue.
 
-# Ingegrity Issues
+# Integrity Issues
 
 - CSRF, Direct Object Reference, Injection attacks...
 - Malware, Malicious file execution, ...
