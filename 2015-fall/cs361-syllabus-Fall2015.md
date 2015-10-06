@@ -4,6 +4,9 @@
 
 * Office Hours: Tues/Thurs 
 * Office Location: Gates 6.706
+* Office Hours: Tues/Thurs Noon to 2 PM or by appointment
+
+Note: I am usually in my office by 10 AM Tues/Thurs depending on traffic.  Its safe to stop by at 11 AM if you need/want to meet with me.
 
 #### TA
 
