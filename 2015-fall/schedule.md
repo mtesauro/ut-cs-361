@@ -29,17 +29,17 @@ Week 06
 
 Week 07
 
-* Oct 06 - Network Security
-* Oct 08 - Application Security, part 1 
+* Oct 06 - Network Security, part 1
+* Oct 08 - Network Security, part 2 
 
 Week 08
 
-* Oct 13 - Application Security, part 2 
-* Oct 15 - Application Security, part 3  
+* Oct 13 - Application Security, part 1 
+* Oct 15 - Application Security, part 2  
 
 Week 09
 
-* Oct 20 - Crypto Labs
+* Oct 20 - Application Security, part 3
 * Oct 22 - Trusted Computing and Multi-level Security Models 
 
 Week 10
