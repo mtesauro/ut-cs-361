@@ -34,18 +34,19 @@ Week 07
 
 Week 08
 
-* Oct 13 - Application Security, part 1 
-* Oct 15 - Application Security, part 2  
+* Oct 13 - Application Security, part 1 - Videos posted on Canvas site
+* Oct 15 - Hands-on Lab Day
 
 Week 09
 
-* Oct 20 - Application Security, part 3
-* Oct 22 - Trusted Computing and Multi-level Security Models 
+* Oct 20 - Application Security, part 2
+* Oct 22 - Application Security, part 3 
 
 Week 10
 
 * Oct 27 - Database, NoSQL and Cloud Security
 * Oct 29 - OS and Virtualization Security 
+           Trusted Computing and Multi-level Security Models
 
 Week 11
 
