@@ -34,34 +34,34 @@ Week 07
 
 Week 08
 
-* Oct 13 - Application Security, part 1 - Videos posted on Canvas site
+* Oct 13 - Application Security Intro - Videos posted on Canvas site
 * Oct 15 - Hands-on Lab Day
 
 Week 09
 
-* Oct 20 - Application Security, part 2
-* Oct 22 - Application Security, part 3 
+* Oct 20 - Application Security
+* Oct 22 - Application Security 
 
 Week 10
 
-* Oct 27 - Database, NoSQL and Cloud Security
-* Oct 29 - OS and Virtualization Security 
-           Trusted Computing and Multi-level Security Models
+* Oct 27 - Application Security
+* Oct 29 - Application Security
 
 Week 11
 
-* Nov 03 - Security Controls
-* Nov 05 - Risk Assessment and Management
+* Nov 03 - Database, NoSQL and Cloud Security
+* Nov 05 - OS and Virtualization Security 
+           Trusted Computing and Multi-level Security Models
 
 Week 12
 
-* Nov 10 - Physical and Personnel Security 
-* Nov 12 - Auditing Security 
+* Nov 10 - Security Controls, Risk Assessment and Management 
+* Nov 12 - Auditing Security,Physical and Personnel Security 
 
 Week 13
 
 * Nov 17 - Guest Lecture - Wendy Nather
-* Nov 19 - Guest Lecture
+* Nov 19 - Guest Lecture - TBD
 
 Week 14
 
@@ -70,7 +70,7 @@ Week 14
 
 Week 15
 
-* Dec 01 - Security - Privacy, Legal and Ethical concerns
+* Dec 01 - Guest Lecture - Bankim Tejani on "Security - Privacy, Legal and Ethical concerns"
 * Dec 03 - Last Day of Class 
 
 Dead Week - Dec 08 & Dec 10
