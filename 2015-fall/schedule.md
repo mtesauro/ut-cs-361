@@ -49,23 +49,24 @@ Week 10
 
 Week 11
 
-* Nov 03 - Database, NoSQL and Cloud Security
-* Nov 05 - OS and Virtualization Security 
-           Trusted Computing and Multi-level Security Models
+* Nov 03 - Application Security
+* Nov 05 - Database, NoSQL and Cloud Security
+           
 
 Week 12
 
-* Nov 10 - Security Controls, Risk Assessment and Management 
-* Nov 12 - Auditing Security,Physical and Personnel Security 
+* Nov 10 - OS and Virtualization Security 
+           Trusted Computing and Multi-level Security Models
+* Nov 12 - Security Controls, Risk Assessment and Management 
 
 Week 13
 
 * Nov 17 - Guest Lecture - Wendy Nather
-* Nov 19 - Guest Lecture - TBD
+* Nov 19 - Case Study - James Wickett - Gauntlt for CI/CD Security
 
 Week 14
 
-* Nov 24 - Case Study 
+* Nov 24 - Auditing Security,Physical and Personnel Security  
 * Nov 26 - Thanksgiving Holiday - nom, nom, nom
 
 Week 15
