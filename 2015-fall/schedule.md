@@ -72,10 +72,9 @@ Week 14
 Week 15
 
 * Dec 01 - Guest Lecture - Bankim Tejani on "Security - Privacy, Legal and Ethical concerns"
-* Dec 03 - Last Day of Class 
+* Dec 03 - Last Day of Class - **EXAM 2**  aka the final
 
 Dead Week - Dec 08 & Dec 10
 
-Final Days Dec. 9-12 & 14-15
 
 **Note:** Schedule for Lab due dates is posted on the course Canvas site under Pages => Course Lab Schedule.
