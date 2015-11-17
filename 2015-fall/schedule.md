@@ -50,14 +50,13 @@ Week 10
 Week 11
 
 * Nov 03 - Application Security
-* Nov 05 - Database, NoSQL and Cloud Security
+* Nov 05 - Application Security
            
 
 Week 12
 
-* Nov 10 - OS and Virtualization Security 
-           Trusted Computing and Multi-level Security Models
-* Nov 12 - Security Controls, Risk Assessment and Management 
+* Nov 10 - Database, NoSQL and Cloud Security
+* Nov 12 - OS and Virtualization Security  
 
 Week 13
 
@@ -66,7 +65,9 @@ Week 13
 
 Week 14
 
-* Nov 24 - Auditing Security,Physical and Personnel Security  
+* Nov 24 - Security Controls, Risk Assessment and Management
+           Trusted Computing and Multi-level Security Models
+           Auditing Security,Physical and Personnel Security  
 * Nov 26 - Thanksgiving Holiday - nom, nom, nom
 
 Week 15
